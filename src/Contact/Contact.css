@@ -1,0 +1,23 @@
+.contactPage {
+  padding: 3%;
+  margin: 5%;
+  background-color: lightblue;
+  border-radius: 10px;
+}
+
+.contacts-links:visited {
+  color: black;
+}
+.contacts-links:active {
+  color: black;
+}
+.contacts-links:link {
+  color: black;
+}
+.contacts-links:hover {
+  color: white;
+}
+
+textarea {
+  vertical-align: top;
+}

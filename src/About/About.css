@@ -1,0 +1,63 @@
+.aboutDiv {
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+}
+
+.whoIAm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 5px;
+  justify-content: space-between;
+}
+
+.whoIamItem {
+  flex: 1 1 auto;
+}
+.whoIamRock {
+  flex: 1 1 auto;
+  max-width: 300px;
+}
+
+.experience {
+  align-items: center;
+
+  justify-content: space-between;
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.Skills {
+  align-items: center;
+
+  justify-content: space-between;
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.aboutP {
+  font-weight: 500;
+}
+
+@media all and (min-width: 800px) {
+  .whoIAm {
+    flex-direction: row;
+  }
+  .experience {
+    flex-direction: row;
+  }
+  .Skills {
+    flex-direction: row;
+  }
+}

@@ -1,0 +1,38 @@
+.mainPageDiv {
+  background-color: #a6ceec;
+}
+
+.titleh1 {
+  margin-top: 0;
+  font-weight: 600;
+  font-size: 2.1vw;
+}
+.titleh3 {
+  font-size: 1.3vw;
+}
+
+.mainGreeting {
+  padding-top: 15%;
+  padding-left: 15%;
+}
+
+.learnMore :link {
+  color: white;
+  text-decoration: none;
+}
+.learnMore :visited {
+  color: white;
+  text-decoration: none;
+}
+a:link {
+  text-decoration: none;
+}
+
+.learnMore {
+  margin: 5px;
+  padding: 5px 10px;
+  background-color: #0e1821;
+  color: white;
+  border-radius: 5px;
+  max-width: 90px;
+}

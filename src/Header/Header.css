@@ -1,0 +1,29 @@
+.headerDiv {
+  background-color: #0e1821;
+}
+
+.headerUl {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+
+.headerLi:link {
+  color: white;
+  text-decoration: none;
+}
+
+.headerLi:active {
+  color: darkgray;
+}
+.headerLi:visited {
+  color: white;
+}
+
+a.headerLi {
+  flex: 1 1 auto;
+  padding: 20px;
+}
