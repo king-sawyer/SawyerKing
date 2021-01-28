@@ -13,6 +13,13 @@ function About() {
             My name is Sawyer and I am born and raised in Portland Oregon. I
             spend my free time rock climbing, exploring the Pacific North West,
             or working with tech!
+            <br />
+            <br />
+            My passion for web development stems from my love of finding
+            solutions. A lot of my hobbies have this in common ranging from
+            board games and rock climbing. I also enjoy the flexibility that
+            programming provides. Whether in a team or independently,
+            programming is something that I look forward to.
           </p>
         </div>
         <img

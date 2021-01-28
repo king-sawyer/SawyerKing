@@ -10,10 +10,9 @@ function Projects() {
             <h3>Pegasus Games</h3>
             <p>
               This project is a site created for a board game company named
-              Pegasus Games to learn information on their store and see what
-              products they have available. The frontend code for this project
-              was created using React while the backend was created using
-              Express.
+              Pegasus Games for customers to learn information on their store
+              and see what products they have available. I created it because it
+              combines two of my passions which include tech and board games.
               <br />
               Technologies:
               <ul>
@@ -64,9 +63,13 @@ function Projects() {
             <h3>Brandanowitzz Portfolio Shop</h3>
             <p>
               This project is an ecommerce/personal shop for a local Portland
-              artist named Brandanowitzz. This project is a Fullstack
-              application that utelizes React on the frontend and Express on the
-              backend. Technologies:
+              artist named Brandanowitzz. This project was created to give the
+              artist a platform to share their work and also start their
+              eCommerce shop. I created it because I am excited to take part in
+              spreading art that I am interested in the world. This project was
+              also a great opportunity for myself to further strengthen
+              practical skills.
+              <br /> Technologies:
               <ul>
                 <li class="projectLi">React</li>
                 <li class="projectLi">Express</li>
@@ -120,15 +123,18 @@ function Projects() {
             <h3>Charity Finder</h3>
             <p>
               This project allows users to search for charities to research
-              based on different search parameters. This project uses HTML, CSS,
-              Javascript, and jQuery. The project searches through different
-              third party API's to return desired results and also charities
-              based on the users current geo location.
+              based on different search parameters. This projects intended
+              audience is people who want to give donations to charities, but
+              don't know where to find a reputable one. I built this project to
+              help people narrow their search in finding a charity that is right
+              for them.
+              <br />
+              Technologies:
               <ul>
                 <li class="projectLi">React</li>
                 <li class="projectLi">Express</li>
                 <li class="projectLi">
-                  Stript to handle custom purchases between the artist and
+                  Stripe to handle custom purchases between the artist and
                   customers.
                 </li>
                 <li class="projectLi">Vanilla CSS</li>

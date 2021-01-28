@@ -36,3 +36,12 @@ a:link {
   border-radius: 5px;
   max-width: 90px;
 }
+
+@media all and (max-width: 950px) {
+  .titleh1 {
+    font-size: 3vw;
+  }
+  .titleh3 {
+    font-size: 3vw;
+  }
+}
